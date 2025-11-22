@@ -2,16 +2,16 @@
 
 compiles variables from IPUMS CPS - ASEC's Child Support Supplement (CSS)
 
-# Workflow
+#### Workflow
 After getting your own IPUMS API Key, can reproduce the dataset by running the
 sequence of python files in /processing/. Note that I've put a variable EXTRACT_NUM at the top of each, this 
 can be used to select which dataset you'd like to run on.
 
-# IPUMS Variables
+#### IPUMS Variables
 descriptions of each variable can be found in variables_notes.txt.
 you can change the variables pulled from IPUMS by adding/removing lines in variables_clean.txt
 
-# Additional Variables
+#### Additional Variables
 The add_famid and family_processing files add a couple variables to the dataset. add_famid adds a
 family id variable across both IPUMS and Census definitions for families. family_processing adds the following variables for both IPUMS and Census definitions of families:
 - total family income, 
