@@ -1,0 +1,76 @@
+Variables pulled from CPS:
+
+Personal - Core - Demographics
+RELATE, Relationship to household head
+AGE, Age
+SEX, Sex
+RACE, Race
+MARST, Marital Status
+POPSTAT, Adult civilian, armed forces, or child	
+
+Personal - Core - Work
+EMPSTAT - Employment Status
+LABFORCE - Labor Force Status
+OCC - Occupation
+OCC2010 - Occupation 2010 basis
+
+Personal - Core - Education
+EDUC - Educational attainment recode
+
+Personal - Core - Family Interrelationships
+FAMUNIT - Family unit membership
+FAMREL - Relationship to family 
+
+Personal - Core - Technical
+FAMID - Census Family ID
+
+Personal - ASEC - Income -
+FTOTVAL - Total family income (census version)
+INCTOT - Total personal income
+INCCHILD - Income from child support
+CTCCRD - Child Tax Credit
+
+Personal - ASEC - Work - 
+OCCLY, Occupation last year
+OCC10LY, Occupation last year 2010 basis
+CLASSWLY, Class of worker last year
+WORKLY, Worked last year
+INDLY, Industry last year
+
+Personal - CSS - Child Support Supplement
+CSSUPPAID, Amount of child support paid last year (only 20-23)
+CSOUT, Child has parent that lives outside the household
+CSWHY, Reason child does not have a biological/adoptive parent who lives outside the home
+CSLEGAL, Ever had a legal child support agreement
+CSAGREE, Ever had a child support agreement other than legal
+CSTYPE, Type of agreement (recode)
+CSPAY, legal agreement included payments
+CSYEAR, Year first had agreement or made agreement legal
+CSSUPP, Other parent was supposed to pay child support last year
+CSREAS, Reason other parent was not supposed to send payments last year
+CSDDUCT, Any payments were supposed to be deducted from other parent's paycheck
+CSWAYPAY, Method of child support payment delivery
+CSCHG, Legal payment amount changed
+CSCHGYR, Year payment amount changed
+CSFREQ1, Frequency of payments - no change or before change
+CSBACK1, Child support included back payments - no change or before change
+CSFREQ2, Frequency of payments - after change
+CSBACK2, Child support included back payments - after change
+CSRECV, Actually received any child support last year
+CSALL, Actually received all support payments supposed to receive
+CSTIME, How many payments were received on time
+CSFULL, How many payments received were the full amount
+CSAMDUE, Amount of child support due
+CSAMREC, Amount of child support actually received
+CSCONTACT, Had any contact with other parent last year
+CSVIS, Other parent has visitation privileges
+CSPHYCUS, Has physical custody agreement with other parent
+CSLEGCUS, Has legal custody agreement with other parent
+CSDAYS, Number of days other parent spent with child last year (doesn't exist for 2023)
+CSYRDIV,Year of most recent divorce or separation
+CSYRMAR, Year of marriage from most recent divorce or separation
+CSWORK, Working at the time of most recent divorce or separation
+CSWORK5, Worked at some point 5 years prior to most recent divorce or separation
+CSELIG, Eligibility to answer Child Support Supplement
+CSSUPPWT, Child Support supplement weight	
+CSSUPPWT, Child Support supplement weight	
